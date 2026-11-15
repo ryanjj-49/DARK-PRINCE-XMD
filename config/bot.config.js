@@ -6,7 +6,7 @@ const configuredPrefix = process.env.PREFIX;
 const prefix = configuredPrefix === undefined || configuredPrefix === "" ? "." : String(configuredPrefix);
 
 const channel = Object.freeze({
-  name: "𝐁𝐄𝐍𝐅𝐄𝐈 𝐓𝐄𝐂𝐇 ™",
+  name: "DARK PRINCE TECH ™",
   jid: "120363430518511561@newsletter"
 });
 
